@@ -5,6 +5,7 @@
 #include <time.h>
 using namespace std;
 int main(){
+    cout<<"abcd";
     int r,c;
     cout<<"Hoe many rows you wanna make: ";
     cin>>r;
